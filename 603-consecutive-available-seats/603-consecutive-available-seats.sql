@@ -1,0 +1,1 @@
+----Solution to LeetCode Database question 603: Consecutive Available Seats

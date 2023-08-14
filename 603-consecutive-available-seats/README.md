@@ -50,4 +50,4 @@ output:
 
 <br/>
 
-Refer to 603-consecutive-available-seats.sql for my solution.
+Refer to **603-consecutive-available-seats.sql** for my solution.
